@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on game field and educational area
 - 📫 How to reach me: u can talk to me about sports, games and whatever
 - 😎 Hoping to see you soon
-<!---
-balbii/balbii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+<img align="center" src="https://github-readme-stats-balbii.vercel.app/api/pin/?username=balbii&repo=github-readme-stats&theme=buefy" />
